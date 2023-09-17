@@ -1,0 +1,21 @@
+description: H-bridge-based ICs DRV8835HB. Allows you to control two DC motors in
+  the range voltage 2V to 11V and maximum current of 1.5 A on the engine, or parallel,
+  where it is then possible to control the 3A engine. Or the module can be used to
+  control a stepper motor.
+github_branch: DRV8835HB01A
+github_description: H-bridge-based ICs DRV8835HB. Allows you to control two DC motors
+  in the range voltage 2V to 11V and maximum current of 1.5 A on the engine, or parallel,
+  where it is then possible to control the 3A engine. Or the module can be used to
+  control a stepper motor.
+github_repo: DRV8835HB01
+github_url: https://github.com/mlab-modules/DRV8835HB01
+homepage: false
+images:
+- doc/img/DRV8835HB01A_top_big.jpg
+- doc/img/DRV8835HB01A_top_small.jpg
+- doc/img/DRV8835HB01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: DRV8835HB01
+updated: '2023-09-17T11:34:49.732455+00:00'
